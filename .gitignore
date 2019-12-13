@@ -1,0 +1,10 @@
+.env
+.venv
+venv
+stop_otpiski/local_settings.py
+*.log
+*.db
+*.sqlite3
+*.pyc
+api/migrations/*
+*/__pycache__
