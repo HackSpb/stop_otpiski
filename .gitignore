@@ -8,3 +8,4 @@ stop_otpiski/local_settings.py
 *.pyc
 api/migrations/*
 */__pycache__
+.idea
